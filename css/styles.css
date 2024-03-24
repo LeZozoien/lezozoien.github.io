@@ -1,5 +1,7 @@
 
-section.top-page {
-    background: url("../mbaoe.png");
-    font-size: 148px;
+.bg-gradient {
+    margin: 0px;
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(-30deg, #4e034fff, #3f0660ff, #3f0660ff, #1b064fff);
 }
