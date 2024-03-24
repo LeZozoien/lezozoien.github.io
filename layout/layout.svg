@@ -29,15 +29,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.51717104"
-     inkscape:cx="1235.568"
-     inkscape:cy="401.22123"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:zoom="1.0343421"
+     inkscape:cx="619.23421"
+     inkscape:cy="291.97304"
+     inkscape:window-width="1419"
+     inkscape:window-height="1040"
+     inkscape:window-x="492"
+     inkscape:window-y="47"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     showgrid="false" />
   <defs
      id="defs1">
     <linearGradient
@@ -88,13 +89,14 @@
      id="layer2"
      inkscape:label="Presentation">
     <rect
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#5932e6;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#5932e6;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect15"
        width="490.60568"
        height="132.64305"
        x="8.697155"
        y="10.231948"
-       ry="0" />
+       ry="1.3287677"
+       rx="1.3287677" />
     <g
        inkscape:groupmode="layer"
        id="layer3"
@@ -105,7 +107,9 @@
          width="147.28049"
          height="118.04217"
          x="345.14435"
-         y="17.532389" />
+         y="17.532389"
+         rx="4.3862629"
+         ry="4.3862629" />
     </g>
   </g>
   <metadata
