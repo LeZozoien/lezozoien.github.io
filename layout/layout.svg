@@ -30,14 +30,14 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="0.51717104"
-     inkscape:cx="1057.6772"
-     inkscape:cy="495.96745"
+     inkscape:cx="1235.568"
+     inkscape:cy="401.22123"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <linearGradient
@@ -64,8 +64,8 @@
        xlink:href="#linearGradient3"
        id="linearGradient5"
        gradientUnits="userSpaceOnUse"
-       x1="33.193146"
-       y1="272.64847"
+       x1="-0.76175565"
+       y1="285.88605"
        x2="540.91272"
        y2="0.39453685"
        gradientTransform="matrix(0.52734382,0,0,1.7777776,-7.9847005e-6,-507.99998)" />
@@ -95,6 +95,18 @@
        x="8.697155"
        y="10.231948"
        ry="0" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Image">
+      <rect
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#5932e6;stroke-width:0.997489;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect16"
+         width="147.28049"
+         height="118.04217"
+         x="345.14435"
+         y="17.532389" />
+    </g>
   </g>
   <metadata
      id="metadata13">
